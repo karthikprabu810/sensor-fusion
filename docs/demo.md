@@ -1,8 +1,9 @@
+# *Because of limitations with video uploads on GitHub, the project videos are hosted on Google Drive. You can view them here:[link](https://drive.google.com/drive/folders/1e1l8UdGF-f406woNhvL9T-wtcInUZzGz?usp=drive_link)*
+
+
 # 🎥 Video Demonstrations: SLAM Architecture Performance
 
 The following videos showcase the real-time mapping process of the **BCR Bot** within a Gazebo warehouse simulation. These recordings highlight system performance across different sensor configurations, emphasizing both the vulnerabilities of single-sensor approaches and the robustness of the proposed **Multi-Modal Fusion architecture**.
-
-*Because of limitations with video uploads on GitHub, the project videos are hosted on Google Drive. You can view them here:[link]()*
 
 ## 📹 `cam_with_lights_off.wmv` — Camera-Only SLAM Failure
 
